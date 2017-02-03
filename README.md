@@ -5,5 +5,5 @@ Data owner: Julie Messier
 data DOI: 10.5281/zenodo.268390
 
 Please do not use without prior permission. 
-Data is z-transformed
-See metadata file for more information
+Data is z-transformed.
+See metadata file for more information.
