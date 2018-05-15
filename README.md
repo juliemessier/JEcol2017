@@ -1,4 +1,4 @@
-# JEcol2017 - MetaData
+# MessierJEcol2017 - MetaData
 
 CITE Messier et al. 2017. Interspecific integration of trait dimensions at local scales: the plant phenotype as an integrated network. Journal of Ecology 105, 1775–1790. DOI: 10.1111/1365-2745.12755.
 
@@ -6,7 +6,7 @@ Data owner: Julie Messier
 Email address of owner: julie dot messier at gmail dot com
 data DOI: 10.5281/zenodo.268390 - https://doi.org/10.5281/zenodo.268390
 Please do not use without prior permission. 
-Dataset Name: MSH Tree Species Traits 2011-2014
+Dataset Name: MSH_Species_Traits_2011-2015
 Dates of data collection: May 2011 - June 2015
 Number of traits: 20, Number of species: 24
 
